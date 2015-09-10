@@ -4,6 +4,12 @@ title: "A standard for building APIs in JSON."
 show_masthead: true
 ---
 
+This is NOT the official JSON-API project, just mirror to it's RC3 version.
+
+Real `>= 1.0` realase is hosted at http://jsonapi.org/ and https://github.com/json-api/json-api
+
+Original content of the RC3 index page:
+
 If you've ever argued with your team about the way your JSON responses
 should be formatted, JSON API is your anti-bikeshedding weapon.
 
