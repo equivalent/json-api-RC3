@@ -4,9 +4,17 @@ title: "A standard for building APIs in JSON."
 show_masthead: true
 ---
 
-This is NOT the official JSON-API project, just mirror to it's RC3 version.
+This is NOT the official JSON-API project !!!
+
+This page is just github fork of the [JSON-API RC3](https://github.com/equivalent/json-api-RC3)
+version for those who need to reference the old specification (for whatever reason).
+
+Please don't use this document as a reference for your new APIs,
+use the [official new JSON API website](http://jsonapi.org/)
 
 Real `>= 1.0` realase is hosted at http://jsonapi.org/ and https://github.com/json-api/json-api
+
+-------------------------------------------------------------------------------------------------
 
 Original content of the RC3 index page:
 

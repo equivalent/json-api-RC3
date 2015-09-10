@@ -1,6 +1,6 @@
 This is NOT the official JSON-API project, just mirror to it's  RC3 version.
 
-website: http://jsonapi-rc3.herokuapp.com/
+hosted at: http://jsonapi-rc3.herokuapp.com/
 
 Real `>= 1.0` realase is hosted at http://jsonapi.org/ and
 https://github.com/json-api/json-api
