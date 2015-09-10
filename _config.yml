@@ -12,6 +12,14 @@ exclude:
   - .gitignore
   - ./public
   - ./stylesheets/*.scss
+  - ./vendor
+  - vendor
+  - ./bundle/vendor
+  - bundle/vendor
+  - config.ru
+  - Gemfile
+  - Gemfile.lock
+
 markdown: redcarpet
 pygments: false
 port: 9876
