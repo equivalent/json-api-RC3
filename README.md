@@ -2,6 +2,8 @@ This is NOT the official JSON-API project, just mirror to it's  RC3 version.
 
 website: http://jsonapi-rc3.herokuapp.com/
 
+> UPDATE 2022-11-17 Heroku will no  longer be free ([source](https://blog.heroku.com/next-chapter)]  I'm shutting down the dyno. If anyone wants to host this app / pay for the dino contact me (contact info [eq8.eu](https://www.eq8.eu/))
+
 Real `>= 1.0` realase is hosted at http://jsonapi.org/ and
 https://github.com/json-api/json-api
 
