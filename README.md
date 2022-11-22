@@ -4,8 +4,6 @@ website: `http://jsonapi-rc3.herokuapp.com/`
 
 > UPDATE 2022-11-17 Heroku will no  longer be free ([source](https://blog.heroku.com/next-chapter))  I'm shutting down the dyno. If anyone wants to host this app / pay for the dyno contact me (contact info [eq8.eu](https://www.eq8.eu/))
 
-<img width="535" alt="Screenshot 2022-11-22 at 09 51 38" src="https://user-images.githubusercontent.com/721990/203268935-d5d7551d-5572-424d-b0ca-593c3702c7d4.png">
-
 
 Real `>= 1.0` realase is hosted at http://jsonapi.org/ and
 https://github.com/json-api/json-api
