@@ -3,9 +3,7 @@ This is NOT the official JSON-API project, just mirror to it's  RC3 version.
 
 > UPDATE 2022-11-17 Heroku will no  longer be free ([source](https://blog.heroku.com/next-chapter))  I'm shutting down the dyno. If anyone wants to host this app / pay for the dyno contact me (contact info [eq8.eu](https://www.eq8.eu/))
 
-you can stil view it in:
-
->>> [Web Archive (Wayback Machine)](https://web.archive.org/web/20190709101559/http://jsonapi-rc3.herokuapp.com/) <<<
+you can stil view it in:  [Web Archive (Wayback Machine)](https://web.archive.org/web/20190709101559/http://jsonapi-rc3.herokuapp.com/)
 
 
 old website was: `http://jsonapi-rc3.herokuapp.com/`
